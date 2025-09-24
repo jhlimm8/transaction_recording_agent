@@ -9,8 +9,8 @@ Setup
 - Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 ```cmd
-git clone https://github.com/jhlimm8/outlook_assistant_agent
-cd outlook_assistant_agent
+git clone https://github.com/jhlimm8/transaction_recording_agent
+cd transaction_recording_agent
 uv sync
 ```
 
